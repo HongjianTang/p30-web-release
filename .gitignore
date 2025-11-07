@@ -1,0 +1,43 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build output (保留 Build/ 和 TemplateData/ 目录，因为这些是 WebGL 构建需要的)
+# 如果你不想提交构建文件，可以取消下面的注释
+# Build/
+# TemplateData/
+
