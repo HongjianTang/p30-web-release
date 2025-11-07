@@ -1,7 +1,0 @@
-# 请将 Unity WebGL 构建的文件放在此目录
-# 通常包括：
-# - [YourBuildName].loader.js
-# - [YourBuildName].framework.js
-# - [YourBuildName].wasm
-# - [YourBuildName].data
-
